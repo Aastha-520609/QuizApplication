@@ -1,0 +1,5 @@
+package com.application.QuizApplication.Model;
+
+public class Question {
+
+}

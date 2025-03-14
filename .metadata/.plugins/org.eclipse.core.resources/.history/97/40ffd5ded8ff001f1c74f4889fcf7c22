@@ -1,0 +1,5 @@
+package com.application.QuizApplication.DAO;
+
+public class QuestionDAO {
+
+}

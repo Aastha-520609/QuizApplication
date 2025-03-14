@@ -1,0 +1,5 @@
+package com.application.QuizApplication.Service;
+
+public class QuizService {
+
+}

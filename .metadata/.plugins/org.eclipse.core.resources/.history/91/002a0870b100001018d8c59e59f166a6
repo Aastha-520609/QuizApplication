@@ -1,0 +1,20 @@
+package com.application.QuizApplication.Service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+
+import com.application.QuizApplication.DAO.QuizDAO;
+
+@Service
+public class QuizService {
+	
+	@Autowired
+	QuizDAO quizDAO;
+
+	public ResponseEntity<String> createQuiz(String category, int numQ, String title) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
