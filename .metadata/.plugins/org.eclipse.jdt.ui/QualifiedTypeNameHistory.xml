@@ -4,4 +4,5 @@
     <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
     <fullyQualifiedTypeName name="com.application.QuizApplication.Model.Quiz"/>
     <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="com.microservices.QuestionService.Model.QuestionWrapper"/>
 </qualifiedTypeNameHistroy>
